@@ -1,0 +1,320 @@
+16 Jun 2020 03:18:48,968 http-nio-8080-exec-3 - Inside class controller - CustomerController of method getEncryption
+16 Jun 2020 03:19:34,402 http-nio-8080-exec-3 - Execution completed- controller - CustomerController of method getEncryption
+16 Jun 2020 03:19:34,402 http-nio-8080-exec-3 - -------------------------------------------------------------
+16 Jun 2020 03:35:04,723 http-nio-8080-exec-2 - Inside getEncryption method hakk
+16 Jun 2020 04:16:28,145 http-nio-8080-exec-1 - inside deleteCustomer method
+16 Jun 2020 04:16:34,975 http-nio-8080-exec-1 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:16:34,977 http-nio-8080-exec-1 - C:\Users\kamal.ale\Downloads\UBXUtilityOne\src\main\resources\PartyList.csv (The system cannot find the file specified)
+16 Jun 2020 04:16:34,978 http-nio-8080-exec-1 - Exiting getCustomerListFromCsv method []
+16 Jun 2020 04:45:58,569 http-nio-8080-exec-1 - inside deleteCustomer method
+16 Jun 2020 04:45:58,569 http-nio-8080-exec-1 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:45:58,571 http-nio-8080-exec-1 - [Ljava.lang.StackTraceElement;@63274377
+16 Jun 2020 04:47:02,803 http-nio-8080-exec-2 - inside deleteCustomer method
+16 Jun 2020 04:47:02,804 http-nio-8080-exec-2 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:47:02,806 http-nio-8080-exec-2 - [Ljava.lang.StackTraceElement;@5dfe6587
+16 Jun 2020 04:48:01,824 http-nio-8080-exec-2 - inside deleteCustomer method
+16 Jun 2020 04:48:01,825 http-nio-8080-exec-2 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:48:57,591 http-nio-8080-exec-2 - inside deleteCustomer method
+16 Jun 2020 04:48:57,593 http-nio-8080-exec-2 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:49:59,496 http-nio-8080-exec-2 - inside deleteCustomer method
+16 Jun 2020 04:50:05,092 http-nio-8080-exec-2 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:51:07,163 http-nio-8080-exec-1 - inside deleteCustomer method
+16 Jun 2020 04:51:07,164 http-nio-8080-exec-1 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:51:07,165 http-nio-8080-exec-1 - java.io.FileNotFoundException: C:\Users\kamal.ale\Downloads\UBXUtilityOne\src\main\resources\PartyList.csv (The system cannot find the file specified)
+16 Jun 2020 04:51:45,568 http-nio-8080-exec-3 - inside deleteCustomer method
+16 Jun 2020 04:51:45,569 http-nio-8080-exec-3 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:51:45,571 http-nio-8080-exec-3 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 04:51:45,596 http-nio-8080-exec-3 - Processing for customerId 4556712
+16 Jun 2020 04:51:45,616 http-nio-8080-exec-3 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 04:51:50,229 http-nio-8080-exec-3 - org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+16 Jun 2020 04:52:46,701 http-nio-8080-exec-4 - inside deleteCustomer method
+16 Jun 2020 04:52:46,701 http-nio-8080-exec-4 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:52:46,703 http-nio-8080-exec-4 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 04:52:46,708 http-nio-8080-exec-4 - Processing for customerId 4556712
+16 Jun 2020 04:52:46,708 http-nio-8080-exec-4 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 04:52:47,324 http-nio-8080-exec-4 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 04:52:49,132 http-nio-8080-exec-4 - org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 : [{"id":"8f0f97ff-ce93-4112-a289-54a448263386","timeStamp":"2020.06.15.23.18.52.090","requestURL":"http://api-uat.taylorandfrancis.com/customers/party/4556712","requestMethod":"DELETE","error":"Internal Server Error"}]
+16 Jun 2020 04:56:42,522 http-nio-8080-exec-2 - inside deleteCustomer method
+16 Jun 2020 04:56:42,524 http-nio-8080-exec-2 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:56:42,526 http-nio-8080-exec-2 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 04:56:42,544 http-nio-8080-exec-2 - Processing for customerId 4556712
+16 Jun 2020 04:56:42,555 http-nio-8080-exec-2 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 04:56:47,349 http-nio-8080-exec-2 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 04:56:49,261 http-nio-8080-exec-2 - org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 : [{"id":"aad522de-c0fc-4657-83fc-9d70b53d3a88","timeStamp":"2020.06.15.23.22.52.280","requestURL":"http://api-uat.taylorandfrancis.com/customers/party/4556712","requestMethod":"DELETE","error":"Internal Server Error"}]
+16 Jun 2020 04:58:15,404 http-nio-8080-exec-1 - inside deleteCustomer method
+16 Jun 2020 04:58:15,405 http-nio-8080-exec-1 - Inside getCustomerListFromCsv method 
+16 Jun 2020 04:58:15,407 http-nio-8080-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 04:58:15,444 http-nio-8080-exec-1 - Processing for customerId 4556712
+16 Jun 2020 04:58:15,465 http-nio-8080-exec-1 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 04:58:20,304 http-nio-8080-exec-1 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 04:58:22,172 http-nio-8080-exec-1 - org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 : [{"id":"1f759970-34e0-486f-8c72-b95e4dca6130","timeStamp":"2020.06.15.23.24.25.181","requestURL":"http://api-uat.taylorandfrancis.com/customers/party/4556712","requestMethod":"DELETE","error":"Internal Server Error"}]
+16 Jun 2020 04:59:53,927 http-nio-8080-exec-5 - inside deleteCustomer method
+16 Jun 2020 04:59:56,370 http-nio-8080-exec-5 - Inside getCustomerListFromCsv method 
+16 Jun 2020 05:00:00,628 http-nio-8080-exec-5 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 05:00:00,650 http-nio-8080-exec-5 - Processing for customerId 4556712
+16 Jun 2020 05:00:00,651 http-nio-8080-exec-5 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 05:00:01,222 http-nio-8080-exec-5 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 05:00:10,249 http-nio-8080-exec-5 - org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 : [{"id":"d5ed9db5-a3ff-45bb-b641-d0349c9b6fe0","timeStamp":"2020.06.15.23.26.13.267","requestURL":"http://api-uat.taylorandfrancis.com/customers/party/4556712","requestMethod":"DELETE","error":"Internal Server Error"}]
+16 Jun 2020 05:01:10,616 http-nio-8080-exec-7 - inside deleteCustomer method
+16 Jun 2020 05:01:36,100 http-nio-8080-exec-7 - Inside getCustomerListFromCsv method 
+16 Jun 2020 05:01:36,108 http-nio-8080-exec-7 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 05:01:56,942 http-nio-8080-exec-7 - Processing for customerId 4556712
+16 Jun 2020 05:01:57,320 http-nio-8080-exec-7 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 05:01:57,959 http-nio-8080-exec-7 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 05:05:09,530 http-nio-8080-exec-7 - org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 : [{"id":"4df48a6f-e1b8-4b3c-abaa-4b6901f6f02d","timeStamp":"2020.06.15.23.28.10.314","requestURL":"http://api-uat.taylorandfrancis.com/customers/party/4556712","requestMethod":"DELETE","error":"Internal Server Error"}]
+16 Jun 2020 05:09:44,451 http-nio-8888-exec-2 - inside deleteCustomer method
+16 Jun 2020 05:09:51,371 http-nio-8888-exec-2 - Inside getCustomerListFromCsv method 
+16 Jun 2020 05:09:51,380 http-nio-8888-exec-2 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 05:09:51,411 http-nio-8888-exec-2 - Processing for customerId 4556712
+16 Jun 2020 05:09:51,422 http-nio-8888-exec-2 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 05:09:55,903 http-nio-8888-exec-2 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 05:10:27,866 http-nio-8888-exec-2 - org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 : [{"id":"5e0a60e1-29d0-4279-81dc-bae8277ae58b","timeStamp":"2020.06.16.05.10.01.169","requestURL":"http://localhost:8080/customers/party/4556712","requestMethod":"DELETE","error":"Internal Server Error"}]
+16 Jun 2020 05:11:44,041 http-nio-8888-exec-1 - inside deleteCustomer method
+16 Jun 2020 05:11:53,640 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+16 Jun 2020 05:11:53,642 http-nio-8888-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 05:11:53,663 http-nio-8888-exec-1 - Processing for customerId 4556712
+16 Jun 2020 05:11:53,672 http-nio-8888-exec-1 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 05:11:58,247 http-nio-8888-exec-1 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 05:13:52,401 http-nio-8888-exec-1 - org.springframework.web.client.HttpServerErrorException$InternalServerError: 500 : [{"id":"e45673ff-0ae6-4c72-b5c6-8ca4515d991d","timeStamp":"2020.06.16.05.13.52.391","requestURL":"http://localhost:8080/customers/party/4556712","requestMethod":"DELETE","error":"Internal Server Error"}]
+16 Jun 2020 05:14:42,914 http-nio-8888-exec-1 - inside deleteCustomer method
+16 Jun 2020 05:14:42,914 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+16 Jun 2020 05:14:42,916 http-nio-8888-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 05:14:42,930 http-nio-8888-exec-1 - Processing for customerId 4556712
+16 Jun 2020 05:14:42,939 http-nio-8888-exec-1 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 05:14:47,303 http-nio-8888-exec-1 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 05:16:25,948 http-nio-8888-exec-1 - Inside getPersonContactEmail method with personId 4556712
+16 Jun 2020 05:16:26,620 http-nio-8888-exec-1 - Exiting getPersonContactEmail method with email comeallaalay1@gmail.com
+16 Jun 2020 05:16:33,638 http-nio-8888-exec-1 - Inside getEncryptedEmail method comeallaalay1@gmail.com
+16 Jun 2020 05:16:38,201 http-nio-8888-exec-1 - Exiting getEncryptedEmail method. EncryptedEmail value 334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e
+16 Jun 2020 05:16:45,452 http-nio-8888-exec-1 - inside deleteIAMUserDetails method with encryptedEmail 334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e
+16 Jun 2020 05:19:40,490 http-nio-8888-exec-1 - com.mongodb.MongoCommandException: Command failed with error 13 (Unauthorized): 'not authorized on user-uat; to execute command { findAndModify: "users_v3;", query: { email: "334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e" }, remove: true, txnNumber: 1, $db: "user-uat;", $clusterTime: { clusterTime: Timestamp(1592264573, 1), signature: { hash: BinData(0, BDDA6CDFE2ADF574015A682DD350DDB5455335A2), keyId: 6784654821245845506 } }, lsid: { id: UUID("36db0818-72bc-4fa7-8dcc-2fec2fbce7b2") } }' on server clu-user-dev-uat-shard-00-00-e39ms.mongodb.net:27017. The full response is {"operationTime": {"$timestamp": {"t": 1592264573, "i": 1}}, "ok": 0.0, "errmsg": "not authorized on user-uat; to execute command { findAndModify: \"users_v3;\", query: { email: \"334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e\" }, remove: true, txnNumber: 1, $db: \"user-uat;\", $clusterTime: { clusterTime: Timestamp(1592264573, 1), signature: { hash: BinData(0, BDDA6CDFE2ADF574015A682DD350DDB5455335A2), keyId: 6784654821245845506 } }, lsid: { id: UUID(\"36db0818-72bc-4fa7-8dcc-2fec2fbce7b2\") } }", "code": 13, "codeName": "Unauthorized", "$clusterTime": {"clusterTime": {"$timestamp": {"t": 1592264573, "i": 1}}, "signature": {"hash": {"$binary": "vdps3+Kt9XQBWmgt01DdtUVTNaI=", "$type": "00"}, "keyId": {"$numberLong": "6784654821245845506"}}}}
+16 Jun 2020 12:13:11,855 http-nio-8888-exec-2 - inside deleteCustomer method
+16 Jun 2020 12:13:11,856 http-nio-8888-exec-2 - Inside getCustomerListFromCsv method 
+16 Jun 2020 12:13:11,858 http-nio-8888-exec-2 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 12:13:11,873 http-nio-8888-exec-2 - Processing for customerId 4556712
+16 Jun 2020 12:13:11,883 http-nio-8888-exec-2 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 12:13:26,160 http-nio-8888-exec-2 - org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+16 Jun 2020 12:14:36,158 http-nio-8888-exec-5 - inside deleteCustomer method
+16 Jun 2020 12:14:36,159 http-nio-8888-exec-5 - Inside getCustomerListFromCsv method 
+16 Jun 2020 12:14:36,160 http-nio-8888-exec-5 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 12:14:36,162 http-nio-8888-exec-5 - Processing for customerId 4556712
+16 Jun 2020 12:14:36,163 http-nio-8888-exec-5 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 12:14:36,707 http-nio-8888-exec-5 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 12:15:06,256 http-nio-8888-exec-5 - Inside getPersonContactEmail method with personId 4556712
+16 Jun 2020 12:15:06,799 http-nio-8888-exec-5 - Exiting getPersonContactEmail method with email comeallaalay1@gmail.com
+16 Jun 2020 12:15:07,216 http-nio-8888-exec-5 - Inside getEncryptedEmail method comeallaalay1@gmail.com
+16 Jun 2020 12:15:11,003 http-nio-8888-exec-5 - Exiting getEncryptedEmail method. EncryptedEmail value 334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e
+16 Jun 2020 12:15:12,346 http-nio-8888-exec-5 - inside deleteIAMUserDetails method with encryptedEmail 334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e
+16 Jun 2020 12:15:22,930 http-nio-8888-exec-5 - Exiting deleteIAMUserDetails after execution.
+16 Jun 2020 12:15:36,255 http-nio-8888-exec-5 - Successfully deleted person db details for customerId 4556712
+16 Jun 2020 12:15:37,325 http-nio-8888-exec-5 - All customers deleted successfully.
+16 Jun 2020 12:25:57,242 http-nio-8888-exec-1 - inside deleteCustomer method
+16 Jun 2020 12:25:57,243 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+16 Jun 2020 12:25:57,245 http-nio-8888-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 12:25:57,260 http-nio-8888-exec-1 - Processing for customerId 4556712
+16 Jun 2020 12:25:57,270 http-nio-8888-exec-1 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 12:26:12,863 http-nio-8888-exec-1 - org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+16 Jun 2020 12:27:35,608 http-nio-8888-exec-5 - inside deleteCustomer method
+16 Jun 2020 12:27:35,609 http-nio-8888-exec-5 - Inside getCustomerListFromCsv method 
+16 Jun 2020 12:27:35,610 http-nio-8888-exec-5 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 12:27:35,613 http-nio-8888-exec-5 - Processing for customerId 4556712
+16 Jun 2020 12:27:35,613 http-nio-8888-exec-5 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 12:27:36,159 http-nio-8888-exec-5 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 12:27:56,906 http-nio-8888-exec-5 - customerResponse for customerId:4556712 CustomerResponse(metadata={message=Customer DELETED, status=success}, data=true)
+16 Jun 2020 12:28:13,064 http-nio-8888-exec-5 - AccessApiResponse for customerId:4556712 {metadata={status=success, message={key=REMOVED ROW, value=4556712}}, data=null}
+16 Jun 2020 12:28:26,403 http-nio-8888-exec-5 - Inside getPersonContactEmail method with personId 4556712
+16 Jun 2020 12:28:26,954 http-nio-8888-exec-5 - Exiting getPersonContactEmail method with email comeallaalay1@gmail.com
+16 Jun 2020 12:28:28,568 http-nio-8888-exec-5 - Inside getEncryptedEmail method comeallaalay1@gmail.com
+16 Jun 2020 12:28:32,199 http-nio-8888-exec-5 - Exiting getEncryptedEmail method. EncryptedEmail value 334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e
+16 Jun 2020 12:28:48,152 http-nio-8888-exec-5 - inside deleteIAMUserDetails method with encryptedEmail 334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e
+16 Jun 2020 12:29:32,152 http-nio-8888-exec-5 - java.lang.NullPointerException
+16 Jun 2020 12:33:19,510 http-nio-8888-exec-2 - inside deleteCustomer method
+16 Jun 2020 12:33:19,512 http-nio-8888-exec-2 - Inside getCustomerListFromCsv method 
+16 Jun 2020 12:33:19,514 http-nio-8888-exec-2 - Exiting getCustomerListFromCsv method [4556712]
+16 Jun 2020 12:33:19,532 http-nio-8888-exec-2 - Processing for customerId 4556712
+16 Jun 2020 12:33:19,542 http-nio-8888-exec-2 - Inside getPartyType method with partyId 4556712
+16 Jun 2020 12:33:23,064 http-nio-8888-exec-2 - Exiting getPartyType method with partyType PERSON
+16 Jun 2020 12:34:19,173 http-nio-8888-exec-2 - customerResponse for customerId:4556712 CustomerResponse(metadata={message=Customer DELETED, status=success}, data=true)
+16 Jun 2020 12:34:44,203 http-nio-8888-exec-2 - AccessApiResponse for customerId:4556712 {metadata={status=success, message={key=REMOVED ROW, value=4556712}}, data=null}
+16 Jun 2020 12:35:09,801 http-nio-8888-exec-2 - Inside getPersonContactEmail method with personId 4556712
+16 Jun 2020 12:35:10,344 http-nio-8888-exec-2 - Exiting getPersonContactEmail method with email comeallaalay1@gmail.com
+16 Jun 2020 12:35:11,244 http-nio-8888-exec-2 - Inside getEncryptedEmail method comeallaalay1@gmail.com
+16 Jun 2020 12:35:13,638 http-nio-8888-exec-2 - Exiting getEncryptedEmail method. EncryptedEmail value 334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e
+16 Jun 2020 12:35:23,981 http-nio-8888-exec-2 - inside deleteIAMUserDetails method with encryptedEmail 334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e
+16 Jun 2020 12:35:33,629 http-nio-8888-exec-2 - No records found in IAM DB for encryptedMail.
+16 Jun 2020 12:35:36,244 http-nio-8888-exec-2 - Exiting deleteIAMUserDetails after execution.
+16 Jun 2020 12:35:42,601 http-nio-8888-exec-2 - Successfully deleted person db details for customerId 4556712
+16 Jun 2020 12:35:42,602 http-nio-8888-exec-2 - All customers deleted successfully.
+18 Jun 2020 13:46:31,943 http-nio-8888-exec-1 - inside deleteCustomer method
+18 Jun 2020 13:46:46,547 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+18 Jun 2020 13:46:46,550 http-nio-8888-exec-1 - java.io.FileNotFoundException: C:\Users\kamal.ale\Downloads\UBXUtilityOne\src\main\resources\PartyList.csv (The system cannot find the file specified)
+23 Jun 2020 12:33:58,876 http-nio-8888-exec-2 - inside deleteCustomer method
+23 Jun 2020 12:34:04,431 http-nio-8888-exec-2 - Inside getCustomerListFromCsv method 
+23 Jun 2020 12:34:04,710 http-nio-8888-exec-2 - java.io.FileNotFoundException: C:\Users\kamal.ale\Downloads\UBXUtilityOne\src\main\resources\PartyList.csv (The system cannot find the file specified)
+23 Jun 2020 12:34:34,372 http-nio-8888-exec-3 - inside deleteCustomer method
+23 Jun 2020 12:34:37,542 http-nio-8888-exec-3 - Inside getCustomerListFromCsv method 
+23 Jun 2020 12:34:37,545 http-nio-8888-exec-3 - Exiting getCustomerListFromCsv method [4556712]
+23 Jun 2020 12:34:43,932 http-nio-8888-exec-3 - Processing for customerId 4556712
+23 Jun 2020 12:35:19,419 http-nio-8888-exec-3 - Inside getPartyType method with partyId 4556712
+23 Jun 2020 12:35:20,863 http-nio-8888-exec-3 - org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is org.postgresql.util.PSQLException: The connection attempt failed.
+23 Jun 2020 12:35:48,467 http-nio-8888-exec-3 - inside deleteCustomer method
+23 Jun 2020 12:35:51,072 http-nio-8888-exec-3 - Inside getCustomerListFromCsv method 
+23 Jun 2020 12:35:51,077 http-nio-8888-exec-3 - Exiting getCustomerListFromCsv method [4556712]
+23 Jun 2020 12:35:54,091 http-nio-8888-exec-3 - Processing for customerId 4556712
+23 Jun 2020 12:36:10,777 http-nio-8888-exec-3 - Inside getPartyType method with partyId 4556712
+23 Jun 2020 12:36:10,904 http-nio-8888-exec-3 - java.lang.RuntimeException: Driver org.postgresql.Driver claims to not accept jdbcUrl, jdbc:postgresql://jdbc:postgresql://use1aprdspguatcustomer.cpqbxulq89lf.us-east-1.rds.amazonaws.com:5432/customer:5432/customer
+23 Jun 2020 12:41:40,125 http-nio-8888-exec-1 - inside deleteCustomer method
+23 Jun 2020 12:41:42,233 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+23 Jun 2020 12:41:42,243 http-nio-8888-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+23 Jun 2020 12:41:44,143 http-nio-8888-exec-1 - Processing for customerId 4556712
+23 Jun 2020 12:42:01,734 http-nio-8888-exec-1 - Inside getPartyType method with partyId 4556712
+23 Jun 2020 12:42:01,835 http-nio-8888-exec-1 - java.lang.IllegalArgumentException: dataSource or dataSourceClassName or jdbcUrl is required.
+23 Jun 2020 14:03:32,437 http-nio-8888-exec-1 - inside deleteCustomer method
+23 Jun 2020 14:03:34,452 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+23 Jun 2020 14:03:34,454 http-nio-8888-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+23 Jun 2020 14:03:36,681 http-nio-8888-exec-1 - Processing for customerId 4556712
+23 Jun 2020 14:04:07,058 http-nio-8888-exec-1 - Inside getPartyType method with partyId 4556712
+23 Jun 2020 14:04:11,272 http-nio-8888-exec-1 - org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+23 Jun 2020 15:20:38,421 http-nio-8888-exec-1 - inside deleteCustomer method
+23 Jun 2020 15:20:40,773 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+23 Jun 2020 15:20:40,780 http-nio-8888-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+23 Jun 2020 15:20:45,128 http-nio-8888-exec-1 - Processing for customerId 4556712
+23 Jun 2020 15:20:48,160 http-nio-8888-exec-1 - Inside getPartyType method with partyId 4556712
+23 Jun 2020 15:21:49,619 http-nio-8888-exec-1 - org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+24 Jun 2020 15:27:29,450 http-nio-8888-exec-2 - inside deleteCustomer method
+24 Jun 2020 15:27:29,451 http-nio-8888-exec-2 - Inside getCustomerListFromCsv method 
+24 Jun 2020 15:27:29,451 http-nio-8888-exec-2 - java.lang.NullPointerException
+24 Jun 2020 15:28:04,684 http-nio-8888-exec-2 - inside deleteCustomer method
+24 Jun 2020 15:28:04,729 http-nio-8888-exec-2 - Processing for customerId null
+24 Jun 2020 15:28:04,741 http-nio-8888-exec-2 - Inside getPartyType method with partyId null
+24 Jun 2020 15:28:04,745 http-nio-8888-exec-2 - java.lang.NumberFormatException: null
+24 Jun 2020 15:28:35,172 http-nio-8888-exec-2 - inside deleteCustomer method
+24 Jun 2020 15:28:35,206 http-nio-8888-exec-2 - Processing for customerId null
+24 Jun 2020 15:28:35,217 http-nio-8888-exec-2 - Inside getPartyType method with partyId null
+24 Jun 2020 15:28:35,221 http-nio-8888-exec-2 - java.lang.NumberFormatException: null
+24 Jun 2020 15:29:33,844 http-nio-8888-exec-2 - inside deleteCustomer method
+24 Jun 2020 15:29:33,874 http-nio-8888-exec-2 - Processing for customerId null
+24 Jun 2020 15:29:33,885 http-nio-8888-exec-2 - Inside getPartyType method with partyId null
+24 Jun 2020 15:29:33,889 http-nio-8888-exec-2 - java.lang.NumberFormatException: null
+24 Jun 2020 15:37:26,745 http-nio-8888-exec-1 - inside deleteCustomer method
+24 Jun 2020 15:37:26,766 http-nio-8888-exec-1 - Processing for customerId null
+24 Jun 2020 15:37:26,778 http-nio-8888-exec-1 - Inside getPartyType method with partyId null
+24 Jun 2020 15:37:26,783 http-nio-8888-exec-1 - java.lang.NumberFormatException: null
+24 Jun 2020 15:39:01,388 http-nio-8888-exec-4 - inside deleteCustomer method
+24 Jun 2020 15:39:01,415 http-nio-8888-exec-4 - Processing for customerId null
+24 Jun 2020 15:39:01,426 http-nio-8888-exec-4 - Inside getPartyType method with partyId null
+24 Jun 2020 15:39:01,430 http-nio-8888-exec-4 - java.lang.NumberFormatException: null
+24 Jun 2020 15:39:58,345 http-nio-8888-exec-2 - inside deleteCustomer method
+24 Jun 2020 15:40:44,763 http-nio-8888-exec-2 - Processing for customerId null
+24 Jun 2020 15:40:44,809 http-nio-8888-exec-2 - Inside getPartyType method with partyId null
+24 Jun 2020 15:40:44,827 http-nio-8888-exec-2 - java.lang.NumberFormatException: null
+24 Jun 2020 15:41:12,805 http-nio-8888-exec-2 - inside deleteCustomer method
+24 Jun 2020 15:41:20,339 http-nio-8888-exec-2 - Inside getCustomerListFromCsv method 
+24 Jun 2020 15:41:32,696 http-nio-8888-exec-2 - java.io.FileNotFoundException: "C:\Users\kamal.ale\Downloads\UBXUtilityOne\src\main\resources\PartyList" (The filename, directory name, or volume label syntax is incorrect)
+24 Jun 2020 15:42:55,447 http-nio-8888-exec-2 - inside deleteCustomer method
+24 Jun 2020 15:43:03,770 http-nio-8888-exec-2 - Inside getCustomerListFromCsv method 
+24 Jun 2020 15:43:26,193 http-nio-8888-exec-2 - java.io.FileNotFoundException: "C:\Users\kamal.ale\Downloads\UBXUtilityOne\src\main\resources\PartyList" (The filename, directory name, or volume label syntax is incorrect)
+24 Jun 2020 15:43:31,711 http-nio-8888-exec-4 - inside deleteCustomer method
+24 Jun 2020 15:43:36,115 http-nio-8888-exec-4 - Inside getCustomerListFromCsv method 
+24 Jun 2020 15:43:40,502 http-nio-8888-exec-4 - java.io.FileNotFoundException: "C:\Users\kamal.ale\Downloads\UBXUtilityOne\src\main\resources\PartyList" (The filename, directory name, or volume label syntax is incorrect)
+24 Jun 2020 15:43:43,416 http-nio-8888-exec-6 - inside deleteCustomer method
+24 Jun 2020 15:43:57,089 http-nio-8888-exec-6 - Inside getCustomerListFromCsv method 
+24 Jun 2020 15:46:18,749 http-nio-8888-exec-6 - java.io.FileNotFoundException: "C:\Users\kamal.ale\Downloads\UBXUtilityOne\src\main\resources\PartyList" (The filename, directory name, or volume label syntax is incorrect)
+24 Jun 2020 15:46:52,549 http-nio-8888-exec-1 - inside deleteCustomer method
+24 Jun 2020 15:46:55,642 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+24 Jun 2020 15:47:17,987 http-nio-8888-exec-1 - java.io.FileNotFoundException: C:\Users\kamal.ale\Downloads\UBXUtilityOne\src\main\resources\PartyList (The system cannot find the file specified)
+24 Jun 2020 15:47:51,146 http-nio-8888-exec-1 - inside deleteCustomer method
+24 Jun 2020 15:47:56,045 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+24 Jun 2020 15:48:02,903 http-nio-8888-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+24 Jun 2020 15:49:08,883 http-nio-8888-exec-1 - Processing for customerId 4556712
+24 Jun 2020 15:49:14,449 http-nio-8888-exec-1 - Inside getPartyType method with partyId 4556712
+24 Jun 2020 15:49:22,058 http-nio-8888-exec-1 - Exiting getPartyType method with partyType PERSON
+24 Jun 2020 15:57:11,584 http-nio-8888-exec-1 - org.springframework.web.client.HttpClientErrorException$Forbidden: 403 : [no body]
+24 Jun 2020 15:57:56,150 http-nio-8888-exec-1 - inside deleteCustomer method
+24 Jun 2020 15:58:05,534 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+24 Jun 2020 15:58:05,536 http-nio-8888-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+24 Jun 2020 15:58:17,521 http-nio-8888-exec-1 - Processing for customerId 4556712
+24 Jun 2020 15:58:20,322 http-nio-8888-exec-1 - Inside getPartyType method with partyId 4556712
+24 Jun 2020 15:58:31,148 http-nio-8888-exec-1 - Exiting getPartyType method with partyType PERSON
+24 Jun 2020 16:15:36,761 http-nio-8888-exec-1 - org.springframework.web.client.HttpClientErrorException$Forbidden: 403 : [no body]
+24 Jun 2020 16:15:42,865 http-nio-8888-exec-4 - inside deleteCustomer method
+24 Jun 2020 16:15:44,944 http-nio-8888-exec-4 - Inside getCustomerListFromCsv method 
+24 Jun 2020 16:15:44,946 http-nio-8888-exec-4 - Exiting getCustomerListFromCsv method [4556712]
+24 Jun 2020 16:16:15,775 http-nio-8888-exec-4 - Processing for customerId 4556712
+24 Jun 2020 16:16:16,145 http-nio-8888-exec-4 - Inside getPartyType method with partyId 4556712
+24 Jun 2020 16:16:16,718 http-nio-8888-exec-4 - Exiting getPartyType method with partyType PERSON
+24 Jun 2020 16:23:36,775 http-nio-8888-exec-4 - org.springframework.web.client.HttpClientErrorException$Forbidden: 403 : [no body]
+24 Jun 2020 16:26:03,567 http-nio-8888-exec-2 - inside deleteCustomer method
+24 Jun 2020 16:26:04,408 http-nio-8888-exec-2 - Inside getCustomerListFromCsv method 
+24 Jun 2020 16:26:04,410 http-nio-8888-exec-2 - Exiting getCustomerListFromCsv method [4556712]
+24 Jun 2020 16:26:07,570 http-nio-8888-exec-2 - Processing for customerId 4556712
+24 Jun 2020 16:26:07,947 http-nio-8888-exec-2 - Inside getPartyType method with partyId 4556712
+24 Jun 2020 16:26:12,182 http-nio-8888-exec-2 - Exiting getPartyType method with partyType PERSON
+24 Jun 2020 17:00:23,746 http-nio-8888-exec-2 - org.springframework.web.client.HttpClientErrorException$Unauthorized: 401 : [no body]
+24 Jun 2020 17:00:43,618 http-nio-8888-exec-5 - inside deleteCustomer method
+24 Jun 2020 17:01:02,654 http-nio-8888-exec-5 - Processing for customerId 98890
+24 Jun 2020 17:01:02,979 http-nio-8888-exec-5 - Inside getPartyType method with partyId 98890
+24 Jun 2020 17:01:03,554 http-nio-8888-exec-5 - Exiting getPartyType method with partyType ORGANIZATION
+24 Jun 2020 17:07:28,564 http-nio-8888-exec-5 - org.springframework.web.client.HttpClientErrorException$Unauthorized: 401 : [no body]
+24 Jun 2020 17:22:19,510 http-nio-8888-exec-1 - inside deleteCustomer method
+24 Jun 2020 17:22:20,003 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+24 Jun 2020 17:22:20,009 http-nio-8888-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+24 Jun 2020 17:22:24,148 http-nio-8888-exec-1 - Processing for customerId 4556712
+24 Jun 2020 17:22:24,920 http-nio-8888-exec-1 - Inside getPartyType method with partyId 4556712
+24 Jun 2020 17:22:30,062 http-nio-8888-exec-1 - Exiting getPartyType method with partyType PERSON
+24 Jun 2020 17:22:38,250 http-nio-8888-exec-1 - customerResponse for customerId:4556712 CustomerResponse(metadata={message=Customer DELETED, status=success}, data=true)
+24 Jun 2020 17:25:30,837 http-nio-8888-exec-1 - AccessApiResponse for customerId:4556712 {metadata={status=success, message={key=REMOVED ROW, value=4556712}}, data=null}
+24 Jun 2020 17:25:34,917 http-nio-8888-exec-1 - Inside getPersonContactEmail method with personId 4556712
+24 Jun 2020 17:25:35,719 http-nio-8888-exec-1 - Exiting getPersonContactEmail method with email comeallaalay1@gmail.com
+24 Jun 2020 17:25:38,522 http-nio-8888-exec-1 - Inside getEncryptedEmail method comeallaalay1@gmail.com
+24 Jun 2020 17:25:42,696 http-nio-8888-exec-1 - Exiting getEncryptedEmail method. EncryptedEmail value 334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e
+24 Jun 2020 17:25:54,819 http-nio-8888-exec-1 - inside deleteIAMUserDetails method with encryptedEmail 334e30386a613137574b333361304331:5b42fff6c2edccb6f14598d88af2efdfd76ad5329557999366c1d4fbc6a75b7e
+24 Jun 2020 17:26:05,382 http-nio-8888-exec-1 - No records found in IAM DB for encryptedMail.
+24 Jun 2020 17:26:06,720 http-nio-8888-exec-1 - Exiting deleteIAMUserDetails after execution.
+24 Jun 2020 17:34:17,874 http-nio-8888-exec-1 - inside deleteNotifications method with customerId 4556712
+24 Jun 2020 17:34:22,031 http-nio-8888-exec-1 - No rows found in notification table for party_Id 4556712
+24 Jun 2020 17:34:22,363 http-nio-8888-exec-1 - No rows found in user_notification_status table for party_Id 4556712
+24 Jun 2020 17:34:27,076 http-nio-8888-exec-1 - Successfully deleted person db details for customerId 4556712
+24 Jun 2020 17:48:30,144 http-nio-8888-exec-1 - All customers deleted successfully.
+24 Jun 2020 18:01:39,919 http-nio-8888-exec-1 - inside deleteCustomer method
+24 Jun 2020 18:01:42,016 http-nio-8888-exec-1 - Inside deleteCustomer method.
+24 Jun 2020 18:01:42,017 http-nio-8888-exec-1 - Inside getCustomerListFromCsv method 
+24 Jun 2020 18:01:42,022 http-nio-8888-exec-1 - Exiting getCustomerListFromCsv method [4556712]
+24 Jun 2020 18:02:03,471 http-nio-8888-exec-1 - Processing for customerId 4556712
+24 Jun 2020 18:02:03,525 http-nio-8888-exec-1 - Inside getPartyType method with partyId 4556712
+24 Jun 2020 18:02:12,215 http-nio-8888-exec-1 - org.springframework.dao.EmptyResultDataAccessException: Incorrect result size: expected 1, actual 0
+24 Jun 2020 18:02:19,551 http-nio-8888-exec-3 - inside deleteCustomer method
+24 Jun 2020 18:02:21,925 http-nio-8888-exec-3 - Inside deleteCustomer method.
+24 Jun 2020 18:02:21,926 http-nio-8888-exec-3 - Inside getCustomerListFromCsv method 
+24 Jun 2020 18:02:21,931 http-nio-8888-exec-3 - Exiting getCustomerListFromCsv method []
+24 Jun 2020 18:07:52,938 http-nio-8888-exec-3 - Processing for customerId 
+24 Jun 2020 18:07:52,939 http-nio-8888-exec-3 - Inside getPartyType method with partyId 
+24 Jun 2020 18:08:03,448 http-nio-8888-exec-3 - java.lang.NumberFormatException: For input string: ""
+24 Jun 2020 18:08:56,522 http-nio-8888-exec-4 - inside deleteCustomer method
+24 Jun 2020 18:08:58,082 http-nio-8888-exec-4 - Inside deleteCustomer method.
+24 Jun 2020 18:08:58,083 http-nio-8888-exec-4 - Inside getCustomerListFromCsv method 
+24 Jun 2020 18:08:58,086 http-nio-8888-exec-4 - Exiting getCustomerListFromCsv method []
+24 Jun 2020 18:09:12,552 http-nio-8888-exec-4 - Processing for customerId 
+24 Jun 2020 18:09:15,238 http-nio-8888-exec-4 - Inside getPartyType method with partyId 
+24 Jun 2020 18:09:18,208 http-nio-8888-exec-4 - java.lang.NumberFormatException: For input string: ""
+25 Jun 2020 14:06:58,825 http-nio-8888-exec-2 - inside deleteCustomer method
+25 Jun 2020 14:07:01,032 http-nio-8888-exec-2 - Inside deleteCustomer method.
+25 Jun 2020 14:07:08,295 http-nio-8888-exec-2 - Processing for customerId 98890
+25 Jun 2020 14:07:08,949 http-nio-8888-exec-2 - Inside getPartyType method with partyId 98890
+25 Jun 2020 14:07:13,835 http-nio-8888-exec-2 - Exiting getPartyType method with partyType ORGANIZATION
+25 Jun 2020 14:08:08,331 http-nio-8888-exec-2 - customerResponse for customerId:98890 CustomerResponse(metadata={message=Customer DELETED, status=success}, data=true)
+25 Jun 2020 14:08:28,452 http-nio-8888-exec-2 - inside deleteEntitlements method with customerId 98890
+25 Jun 2020 14:23:08,513 http-nio-8888-exec-2 - IpApiResponse for customerId:98890 {metadata={status=success, message={}}, data=null}
+25 Jun 2020 14:23:08,563 http-nio-8888-exec-2 - inside deleteNotifications method with customerId 98890
+25 Jun 2020 14:23:12,589 http-nio-8888-exec-2 - No rows found in notification table for party_Id 98890
+25 Jun 2020 14:23:12,978 http-nio-8888-exec-2 - No rows found in user_notification_status table for party_Id 98890
+25 Jun 2020 14:23:12,979 http-nio-8888-exec-2 - Successfully deleted organization db details for customerId 98890
+25 Jun 2020 14:23:12,979 http-nio-8888-exec-2 - Exiting deleteCustomer method.
+25 Jun 2020 14:23:12,979 http-nio-8888-exec-2 - All customers deleted successfully.
+25 Jun 2020 15:01:49,782 http-nio-8888-exec-2 - inside deleteCustomer method
+25 Jun 2020 15:01:58,384 http-nio-8888-exec-2 - Inside deleteCustomer method.
+25 Jun 2020 15:02:15,772 http-nio-8888-exec-2 - Inside getCustomerListFromCsv method 
+25 Jun 2020 15:02:15,774 http-nio-8888-exec-2 - Exiting getCustomerListFromCsv method []
+25 Jun 2020 15:02:24,449 http-nio-8888-exec-2 - Processing for customerId 
+25 Jun 2020 15:02:24,495 http-nio-8888-exec-2 - Inside getPartyType method with partyId 
+25 Jun 2020 15:02:25,170 http-nio-8888-exec-2 - java.lang.NumberFormatException: For input string: ""
